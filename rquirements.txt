@@ -1,1 +1,10 @@
-fasta
+fastapi
+uvicorn
+streamlit
+pandas
+numpy
+scikit-learn
+xgboost
+matplotlib
+joblib
+
